@@ -74,7 +74,11 @@
     width: 100%;
     height: auto;
   }
-
+  
+  .bg-silver{
+    background-color: silver;
+  }
+  
   #product p {
     font-size: 29px;
   }
