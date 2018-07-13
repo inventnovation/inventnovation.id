@@ -1,0 +1,100 @@
+@media only screen and (max-width:481px) {
+  body {
+    width: 100%;
+    background-color: #181818;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  h2, h3, h4 p{
+    margin:0
+  }
+
+  .title{
+    font-family: cursive;
+    color: grey;
+  }
+
+  .title h2{
+    margin: 20px auto;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .bar{
+    display: flex;
+    justify-content: space-around;
+
+  }
+
+  .bar h4{
+    color: grey;
+    font-family: sans-serif;
+    font-size: 20px;
+  }
+
+  .quote{
+    background-image: url('8613-amazing-dark-background-2560x1600-download-free.jpg');
+    margin: 20px auto;
+    height: 200px;
+    padding-top: 2px;
+  }
+
+
+
+  .quote p {
+    color: white;
+    font-size: 40px;
+    font-family:monospace;
+    text-align: center;
+    margin: 30px 50px;
+  }
+
+  .container{
+    width: 80%;
+    height: auto;
+    margin: 10%;
+  }
+
+  .product{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    margin: 50px auto;
+  }
+
+  #product{
+    text-align: center;
+
+  }
+
+  #product img{
+    width: 100%;
+    height: auto;
+  }
+
+  #product p {
+    font-size: 29px;
+  }
+
+  #contact{
+    background-color: grey;
+    height: 150px
+
+  }
+
+  .box{
+    padding: 10px;
+  }
+
+  #contact h3{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: white;
+    margin: 20px;;
+  }
+
+}
