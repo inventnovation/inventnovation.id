@@ -14,7 +14,7 @@
 
   .title{
     font-family: cursive;
-    color: grey;
+    color: deepskyblue;
   }
 
   .title h2{
@@ -30,7 +30,7 @@
   }
 
   .bar h4{
-    color: grey;
+    color: mediumspringgreen;
     font-family: sans-serif;
     font-size: 20px;
   }
@@ -65,6 +65,8 @@
     margin: 50px auto;
   }
 
+
+
   #product{
     text-align: center;
 
@@ -81,7 +83,7 @@
 
   #contact{
     background-color: grey;
-    height: 150px
+    height: auto;
 
   }
 
@@ -96,5 +98,7 @@
     color: white;
     margin: 20px;;
   }
+
+
 
 }
